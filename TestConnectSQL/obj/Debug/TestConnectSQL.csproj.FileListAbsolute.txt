@@ -1,0 +1,10 @@
+F:\Hanpl\AHTWORK\Collins\TestConnectSQL\TestConnectSQL\bin\Debug\TestConnectSQL.exe.config
+F:\Hanpl\AHTWORK\Collins\TestConnectSQL\TestConnectSQL\bin\Debug\TestConnectSQL.exe
+F:\Hanpl\AHTWORK\Collins\TestConnectSQL\TestConnectSQL\bin\Debug\TestConnectSQL.pdb
+F:\Hanpl\AHTWORK\Collins\TestConnectSQL\TestConnectSQL\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Hanpl\AHTWORK\Collins\TestConnectSQL\TestConnectSQL\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Hanpl\AHTWORK\Collins\TestConnectSQL\TestConnectSQL\obj\Debug\TestConnectSQL.csproj.AssemblyReference.cache
+F:\Hanpl\AHTWORK\Collins\TestConnectSQL\TestConnectSQL\obj\Debug\TestConnectSQL.csproj.CoreCompileInputs.cache
+F:\Hanpl\AHTWORK\Collins\TestConnectSQL\TestConnectSQL\obj\Debug\TestConn.692BB15C.Up2Date
+F:\Hanpl\AHTWORK\Collins\TestConnectSQL\TestConnectSQL\obj\Debug\TestConnectSQL.exe
+F:\Hanpl\AHTWORK\Collins\TestConnectSQL\TestConnectSQL\obj\Debug\TestConnectSQL.pdb
